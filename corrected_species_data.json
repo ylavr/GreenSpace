@@ -1,0 +1,984 @@
+{
+    "African_Violet": {
+        "mapping_name": "African_Violet_Saintpaulia_ionantha",
+        "description": "African violet (Saintpaulia ionantha) is an easy to care for species with soft fuzzy foliage and a variety of purple, blue, and pink blooms. Native to Eastern Africa, African violets tend to thrive with bright but indirect sunlight and moist soil with regular applications of high-phosphorus fertilizer. This fast-growing houseplant may be grown as single plants or propagated by leaf-cuttings to form small, beautiful clumps of blooms on their trailing stems. Low maintenance, long-lasting and long-blooming, the African violet is a colorful and rewarding addition to any home or office.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation",
+            "Hardiness Zone": "11 - 12",
+            "Flowers": "Blue, Pink, Purple And White Flowers",
+            "Sun": "Part Shade,Part Sun/Part Shade",
+            "Soil": "Well-Drained",
+            "Fruits": "Green,Brown,Violet Fruits Ready In Summer",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Purple,Pink,Violet,White",
+            "Growth Rate": "Moderate",
+            "Maintenance": "Moderate",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "African violets should be watered once every 5-7 days, depending on the local conditions such as humidity and temperature. Watering for African violets should be deep and thorough but take care not to overwater. The size of the pot and type of potting medium also affect the amount of water needed. About 3 tablespoons of water per plant is recommended, but this may need to be adjusted depending on the size of the pot and the potting medium.",
+            "Sunlight": "African Violets require low-to-medium indirect sunlight for optimal growth and flowering. They do best with 4-6 hours of bright, indirect sunlight each day, through a lightly curtained window or other indirect light source. Avoid direct sunlight, as this could cause the delicate leaves to burn. If the African Violet gets too little light, it will not bloom. However, too much direct sunlight can cause the leaves to wilt or turn yellow and can cause burning of the petals.",
+            "Pruning": "African violets (Saintpaulia ionantha) should be pruned regularly throughout the season, but typically no more than once a month. Prune off dead or dying leaves and flowers to promote healthy new foliage and blooms. Begin pruning in late winter or early spring, just before new growth appears."
+        }
+    },
+    "Aloe_Vera": {
+        "mapping_name": "Aloe_Vera",
+        "description": "Aloe vera is a fantastic plant species known for its many amazing health benefits. Consisting of thick leaves with a gel-like interior, aloe vera has long been used as a traditional remedy for treating skin conditions. It is a great source of vitamins, minerals, and amino acids, making it a great natural remedy for common ailments. Aloe vera is also incredibly versatile, with the gel and sap being used for everything from digestive disorders to eye health. It is even believed to reduce inflammation and improve circulation. With its myriad of benefits, aloe vera is definitely an amazing plant species.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Minimum",
+            "Propagation": "Division",
+            "Hardiness Zone": "10 - 12",
+            "Fruits": "Green,yellow,orange Fruits In Autumn Ready In Summer",
+            "Sun": "Full Sun",
+            "Soil": "Well-Drained",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "High",
+            "Maintenance": "Low",
+            "Indoors": "Yes",
+            "Care Level": "Low"
+        },
+        "care_info": {
+            "Watering": "Aloe plants require little water and have very low water needs. Water once every 2 weeks in the spring and summer, and once a month in the wintertime. Make sure to water your aloe deeply, once it is wet, the soil should be completely saturated with moisture. Be sure to allow the soil to dry out completely before watering again to avoid root rot. It's a good idea to mist the plant every few days with purified water or tap water that has sat for 24 hours in an open container to dechlorinate it.",
+            "Sunlight": "Aloe vera, a succulent plant species, needs a few hours of direct sunlight to remain healthy. It is best to provide 4 to 6 hours of direct sunlight a day for optimal growth and health. For mature aloe vera plants, morning sun is best because the intense afternoon rays can scald the leaves. If the aloe vera plants are receiving too much sunlight, their leaves will become brown or brittle and scorched. It is important to provide some shade during peak hours of the afternoon sun, especially in hotter climates.Aloe vera plants can also tolerate partial shade, but direct sunlight helps promote growth and blooming. When keeping your aloe vera indoors, make sure it is placed near a south-facing window for maximum sunlight. Additionally, it is important to move the plant regularly to ensure all parts of the plant receive sunlight.",
+            "Pruning": "Pruning for the aloe plant should generally take place in early spring, after any danger of frost. Depending on the size and health of the plant, some pruning is necessary to promote new growth and remove unproductive foliage. You can prune away any dead or dried leaves as well as any flowers or any branches that have been damaged by excessive sunlight or wind. To achieve a symmetrical look, try removing any centers of the growth points that look overcrowded. For best results, try and only remove around 1/3 of the plant in each pruning session."
+        }
+    },
+    "Anthurium": {
+        "mapping_name": "Anthurium_Anthurium_andraeanum",
+        "description": "Anthurium andraeanum is an amazing plant species for many reasons. It has a brightly coloured spathe, which can be orange, white and yellow, as well as long-lasting flowering. It is a long-lived species, and its blooms can remain intact for several months. This attractive plant is also easy to care for and can thrive in indirect light and humid environments. Its flowers bloom regularly and even if the plant is not fertilised, it can still keep thriving. Furthermore, the Anthurium andraeanum is perfect for those looking for a unique, eye-catching houseplant to add to their home. In conclusion, Anthurium andraeanum is a stunning and resilient species with distinctively vibrant flowers.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Air Layering Propagation,Stem Propagation,Leaf Cutting,Seed Propagation",
+            "Hardiness Zone": "11 - 12",
+            "Flowers": "Yellow spadix with red spathe Flowers",
+            "Sun": "Part Sun/Part Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "High",
+            "Maintenance": "Moderate",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Anthurium andraeanum should be watered roughly every 5 to 7 days, depending on the climate and soil, and should be watered thoroughly. The amount of water needed can be estimated by placing your finger in the soil, if it feels dry 1 centimetre down, it indicates that it could use a good watering. The soil should remain moist at all times, but not soggy. As a general rule, reduce the amount of water if you notice yellowed leaves or drooping stems and increase it if the soil appears too dry.",
+            "Sunlight": "Anthurium andraeanum requires medium light, partial shade and filtered light exposure to keep its vibrant foliage. It needs bright indirect light to thrive, but should not be in direct sunlight as this can scorch the leaves. Make sure to avoid exposure to afternoon sunlight, as well. It is best to provide your plant with bright, indirect light for 6-8 hours a day.",
+            "Pruning": "Pruning anthurium plants should be done sparingly and only when necessary. The plant's growth generally occurs in late spring and early summer, so the best time to prune is during this growth spurt. Prune off any dead leaves, stems, and wilted flowers. Do not prune more than 20-25% of the overall foliage. Pruning should be done only if the plant is looking lanky or if you'd like to shape it. Pruning should be done with clean, sharp scissors and only the dead foliage should be removed. Pruning more than 25% of growth on an anthurium plant can cause it stress, so it should be avoided."
+        }
+    },
+    "Dypsis lutescens": {
+        "mapping_name": "Areca_Palm_Dypsis_lutescens",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Asparagus Fern": {
+        "description": "Sprenger's asparagus fern (Asparagus densiflorus) is an amazing evergreen perennial that is perfect for sunny areas as it often blooms in late spring to summer. It is easy to care for, with arching stems of small, airy green foliage, and tiny white flowers. This makes a lovely ground cover and can also be potted for tabletop displays or hanging baskets. Hardy and drought tolerant, it requires minimal care and will thrive with light fertilizing during the growing season. A true delight to behold, Sprenger's asparagus fern is the perfect addition to any garden.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Cutting,Seed Propagation,Layering Propagation",
+            "Hardiness Zone": "9 - 11",
+            "Flowers": "White Flowers",
+            "Sun": "Part Shade",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Invasive": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Watering is an important part of keeping Sprenger's asparagus fern (Asparagus densiflorus) healthy. The best way to keep the soil consistently moist is to water the soil once a week, taking care to evenly moisten the soil to a depth of 8-10 cm (3-4 inches). Additionally, watch for signs of dryness in the top couple of centimeters of soil and water accordingly. During periods of intense summer heat, an extra watering may be necessary. It is also important to never allow the soil to dry out completely at any time.",
+            "Sunlight": "Sprenger's asparagus fern (Asparagus densiflorus) prefers bright indirect sunlight. Direct sunlight will cause the foliage to bleach and burn, so placing the plant in a location where it gets 4 to 5 hours of sunlight a day is ideal. It is important to note that the sunlight should indirectly reach the plant; in other words, placing it near a window that has a sheer curtain that will defuse the sunlight or a window that gets morning sun but has shade during the afternoon is optimal for this species.",
+            "Pruning": "Pruning for Sprenger's asparagus fern (Asparagus densiflorus) should be done in late spring or early summer. Prune sparingly, removing only dead foliage and stems. Cut stems back to their base and remove any dead leaves, but leave the healthy stems and foliage intact. Prune oddly-shaped, spindly or dead stems and cut them off flush with the soil. Prune to remove any brown, mushy, or discolored leaves and stems. Prune during the warmer months of the year to encourage fresh, healthy growth."
+        },
+        "mapping_name": "Asparagus_Fern_Asparagus_setaceus"
+    },
+    "Begonia": {
+        "mapping_name": "Begonia_Begonia_spp",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Bird's Nest": {
+        "description": "The Bird's Nest Fern (Asplenium nidus 'Antiquum') is a rare and unique species of fern that is a must-have addition to anytropical garden. Its stunning, wide-spreading fronds make it an attractive focal point, while its resistance to pests and diseases make it perfect for busy gardeners. Its foliage is a delight - deep green and glossy, with leathery leaves that are ruffled along the edges. Its yellow patches on the fronds add further to its aesthetic appeal and help it blend into other foliage. Its ability to adapt to different environments makes it a great choice for both indoor and outdoor spaces, making it a great choice for any tropical themed garden.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Cutting,Spore Propagation,Tissue Culture",
+            "Hardiness Zone": "10 - 11",
+            "Flowers": "Flowers",
+            "Sun": "Full Sun,Part Shade,Full Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "Low",
+            "Tropical": "Yes",
+            "Indoors": "Yes"
+        },
+        "care_info": {
+            "Watering": "Watering frequency can vary with the season, with more frequent watering being required during the summer months and less frequent during the winter. Generally the Bird's Nest Fern should be watered when the soil is slightly dry to the touch and the fronds are limp. During the summer water the plant thoroughly once a week, allowing the water to pass through the potting mixture and drainage holes – this will help prevent the soil from becoming sodden and waterlogged. However during the cooler winter months water should be reduced to every 10 – 14 days, making sure the soil has dried out before the next watering.",
+            "Sunlight": "Bird's Nest Ferns, like most houseplants, need bright, indirect sunlight to thrive. Aim for 4-6 hours of bright, indirect light per day, preferably in the morning or late afternoon hours. Depending on the season, direct sunlight and direct light from south-facing windows may be strong enough to burn the leaves, so filter them through an opaque curtain or sheer blinds. During the winter months, especially in northern climates, some additional light supplementation with artificial sources may be necessary.",
+            "Pruning": "Pruning Bird's Nest Ferns (Asplenium nidus 'Antiquum') is best done twice a year, in the spring and fall. During the spring pruning, remove any dead or discolored leaves. This will help keep the plant looking attractive and will allow more light to reach the center of the plant. Fall pruning should focus on removing older, tougher leaves from the center of the plant as these will block out light and restrict growth. Pruning should be kept to a minimum, as the plant grows slowly and does not tolerate drastic pruning."
+        },
+        "mapping_name": "Birds_Nest_Fern_Asplenium_nidus"
+    },
+    "Strelitzia reginae": {
+        "mapping_name": "Bird_of_Paradise_Strelitzia_reginae",
+        "description": "Bird of Paradise (Strelitzia reginae) is a foliage plant native to tropical South Africa. These plants produce large, fan-shaped leaves and bright, unique tropical flowers in the shape of a bird, hence its common name. During the summer months, these flowers can last for many months in warm climates. They prefer bright light and moist, well-drained soil, making them a popular choice for indoor and outdoor gardens. Bird of Paradise is a moderately slow grower, but with proper care, it can reach up to 8 feet tall. This South African native may just be the showstopper of your garden!",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "Orange/blue Flowers",
+            "Sun": "Full Sun",
+            "Soil": "Well-Drained",
+            "Fruits": "blue,yellow,purple,orange Fruits Ready In",
+            "Leaf": "Yes",
+            "Growth Rate": "Low",
+            "Maintenance": "Moderate",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "High"
+        },
+        "care_info": {
+            "Watering": "Watering a bird of paradise (Strelitzia reginae) depends on the season and the health of the plant. During the winter, the soil should be allowed to dry out and watered only when it is dry to the touch. During the summer, the soil should remain moist but not soggy. Water the plant regularly and check the soil moisture every few days to make sure it’s not too dry or too wet. A general guideline for the amount of water to use is to provide enough to saturate the soil to a depth of approximately 1 inch per week.",
+            "Sunlight": "Bird of paradise (Strelitzia reginae) plants need full sun for most of the day, preferably at least 6 to 8 hours of direct sunlight per day. The best and healthiest growth for these plants will occur when they receive full sun from mid-morning to late afternoon. In some regions, this can be as much as 10 to 12 hours of direct sunlight per day. For bird of paradise plants, too much shade can cause the blooms to be few and far between, and can also stunt the plant's growth.",
+            "Pruning": "Bird of paradise (Strelitzia reginae) should be pruned once in the spring in early April. Pruning can be done every 1 to 2 years to maintain the desired size of the shrub. The amount of pruning should be moderate. Trim away dead or damaged stems, and main branches can be thinned by 1-third to 1-half of their length, leaving enough leaves to still foster healthy growth. During pruning, avoid cutting close to the soil line as this can kill the plant or stunt its growth."
+        }
+    },
+    "Nephrolepis_exaltata": {
+        "description": "The Boston fern (Nephrolepis exaltata) is a lush evergreen fern known for its cascading fronds that can grow up to 3 feet long. A popular choice for hanging baskets and terrariums, this plant thrives in indirect sunlight and constantly moist soil. It needs to be misted regularly to maintain its delicate foliage. The Boston fern also purifies air, adding a touch of elegance and charm to any indoor space. With its oasis of greenery, it is no wonder why the Boston fern is one of the most beloved houseplants.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Division",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "Non-Flowering Flowers",
+            "Sun": "Part Shade,Part Sun/Part Shade",
+            "Soil": "Well-Drained",
+            "Fruits": "Fruits Ready In Summer",
+            "Leaf": "Yes",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Boston ferns should be watered regularly, approximately once a week. Water thoroughly so that the soil is saturated and water starts to run out of the drainage holes in the bottom of the pot. Allow the soil to dry out slightly between waterings. Use room temperature or lukewarm water and keep the plant in a humid environment. Spray the leaves with water twice a week if the environment is too dry.",
+            "Sunlight": "Boston ferns need bright, indirect sunlight for a minimum of 4 hours on a daily basis. Morning sun is the best since intense afternoon sun will damage the plant's foliage. Too little light will cause the fronds to become pale and yellow, while too much light may cause them to dry out and become crispy. The best lighting would be a bright indirect light like a north or east-facing window or near a window that has some sheer curtains or blinds to help filter out the intense direct light. The Boston fern should be placed at least 3 feet away from the window to avoid scorching.",
+            "Pruning": "For Boston ferns, pruning should be done every 3-4 weeks in order to maintain a full and healthy plant. Pruning should involve cutting the fronds just beyond the nodes (the parts of the stem where the leaves spring out from). Trim the fronds about an inch or 2 above the nodes in order for new growth to appear. If you have a particularly large fern, you may need to do this more frequently. Additionally, fronds should be trimmed when they start to turn brown. This will help keep a vibrant plant."
+        },
+        "mapping_name": "Boston_Fern_Nephrolepis_exaltata"
+    },
+    "Calathea": {
+        "description": "Calathea lancifolia, commonly known as rattlesnake plant, is an amazing houseplant that has extra-ordinary foliage. The leaves are long, narrow and wavy, like snakeskin, and have alternating white and dark green stripes. When its leaves move, the leaves gently shake which earns it its name! Rattlesnake plants are unique and hardy plants that require medium light and moist but well-drained soil. They are also non-toxic and easy to care for which make them a great houseplant for any environment. The wavy foliage will add beauty and movement to any room, making rattlesnake plants a great choice for any gardener.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Stem Propagation,Leaf Cutting,Air Layering Propagation",
+            "Hardiness Zone": "11 - 12",
+            "Flowers": "Yellow Flowers",
+            "Sun": "Part Shade,Part Sun/Part Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Purple",
+            "Growth Rate": "Low",
+            "Maintenance": "Moderate",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Rattlesnake plant (Calathea lancifolia) prefers moist but not soggy soil. Water your plant every 1-2 weeks, allowing the top inch of soil to dry out before watering again. During the summer months, the rattlesnake plant should be watered more regularly to ensure the soil stays moist. In winter, water less often and allow the top of the soil to dry out before watering again.",
+            "Sunlight": "Rattlesnake plant (Calathea lancifolia) does best in bright, indirect sunlight. A good rule of thumb is to provide up to 4 hours of sunlight per day - ideally in the morning or late afternoon when sun intensity is lower. With more than 4 hours of direct sun per day, the leaves may suffer from too much direct sun and scorch. Keep the rattlesnake plant in a spot where the sun is shaded by something like a fence, tree, or other structure as the direct hot sun for more than 4 hours can cause damage.",
+            "Pruning": "Generally, this species of plant should not be pruned too often or heavily. Pruning should be done sparingly, and only to remove dead, damaged, or overcrowded parts. Pruning should be done before the plant has a chance to flower. If done during the growing season, pruning should be done in the spring or early summer as buds begin to form. In the autumn, anytime before the end of October is a good time to prune for shape or size."
+        },
+        "mapping_name": "Calathea"
+    },
+    "Aspidistra_elatior": {
+        "description": "The cast-iron plant (Aspidistra elatior) is an amazing plant species due to its resilience and endurance. This plant is almost impossible to kill, since it can withstand extreme temperatures, low light levels, drought, and poor soil. It also requires very little attention to thrive, making it an ideal choice for busy or novice gardeners. Additionally, it has beautiful broad, dark green leaves which create an elegant, yet durable presence in any room.Featuring extremely low maintenance, this hardy and attractive plant is the perfect addition to any environment.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Cutting,Air Layering Propagation,Seed Propagation",
+            "Hardiness Zone": "8 - 10",
+            "Flowers": "Creamy Purple Flowers",
+            "Sun": "Part Shade,Full Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Low"
+        },
+        "care_info": {
+            "Watering": "Water this plant when the top inch of soil is dry. During the growing season from spring to fall, it is important to keep the soil moist but not soggy. Water thoroughly but allow the soil to dry before re-watering. During the winter months, it is best to reduce watering to keep the soil just barely moist. As a general rule, Cast-iron plants require an average of 1 heavy watering per week in the growing season, and 2 light waterings per month in the winter.",
+            "Sunlight": "The cast-iron plant (Aspidistra elatior) requires low to moderate amounts of sunlight. In general, the plant should receive indirect, filtered sunlight for only a few hours per day. Too much direct sunlight may cause the leaves to burn. Aim for around 2-4 hours of indirect sunlight per day, making sure to provide enough shade from nearby trees or north-facing windows, to assure the plant does not get scorched. In lower light areas, the cast-iron plant may become spindly, so watch for signs of this if your plant is not receiving enough sunlight.",
+            "Pruning": "Pruning cast-iron plants is relatively easy and infrequent. Pruning should be done after the active growing season, usually in late winter or early spring (January/February). Prune off dead or damaged leaves, and trim exceptional tall/streaky leaves. Take care not to prune too much, as the plant is a slow grower. Additionally, you can trim off the flower stalks if they appear. Doing so can increase the amount of leaves and the overall health of the plant."
+        },
+        "mapping_name": "Cast_Iron_Plant_Aspidistra_elatior"
+    },
+    "Aglaonema 'Cutlass'a": {
+        "mapping_name": "Chinese_evergreen_Aglaonema",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Chinese_Money_Plant_Pilea_peperomioides": {
+        "mapping_name": "Chinese_Money_Plant_Pilea_peperomioides",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Schlumbergera buckleyi": {
+        "description": "Christmas Cactus (Schlumbergera Buckleyi) is a unique plant species native to the tropical rain forests of South America. Its flat, segmented leaves and long branching stems are vivid green and covered in extremely sharp, tough spines. In the late winter and early spring, the plant is covered in beautiful pink, red, and white blooms, giving it its common name. It is easy to care for, and only needs to be watered occasionally. It thrives in bright, indirect sunlight, and does not mind some light shade. With a little attention and care, Christmas Cactus can bring joy to your home for many years.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Grafting Propagation,Cutting,Layering Propagation,Division,Seed Propagation",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "Magenta Red To Pink Flowers",
+            "Sun": "Part Shade",
+            "Growth Rate": "Low",
+            "Maintenance": "Moderate",
+            "Indoors": "Yes",
+            "Care Level": "Moderate"
+        },
+        "care_info": {
+            "Watering": "The Christmas Cactus requires moderate watering, approximately once every week to 10 days when the potting soil is dry, usually during the growing season which is usually in spring and summer. When the days grow shorter and nights cooler, in the fall and winter, cut back on watering as the cactus will have limited growth during this time. Additionally, be sure to also mist the Christmas Cactus regularly as higher humidities favor its growth and health.",
+            "Sunlight": "Christmas cacti grow best with bright, indirect sunlight. To keep the plant healthy and happy, provide it with 3-5 hours of morning or late afternoon light every day. For best results, keep the plant near a south- or east-facing window, but avoid placing it in direct sunlight. If the plant doesn’t receive enough light during the day, it may struggle to bloom flowers during the holiday season.",
+            "Pruning": "The Christmas Cactus (Schlumbergera buckleyi) requires light pruning to shape and to encourage branching and the development of new growth. Pruning can take place any time from late spring through mid-summer. Start with a light pruning, removing no more than 15 percent of the oldest stems and 1-third of the plant's leaves. Avoid pruning too much at once, as this can damage the plant and slow its growth. If necessary, additional pruning can be done throughout the season."
+        },
+        "mapping_name": "Christmas_Cactus_Schlumbergera_bridgesii"
+    },
+    "Chrysanthemum 'Fireworks Igloo": {
+        "description": "Chrysanthemum 'Fireworks Igloo' is an amazing plant, known for its bright and vibrant colors. It features sublime yellow blooms with exquisite deep orange centers. Its textured petals are beautiful and its fiery colors are truly eye-catching. Its interesting foliage with its deep and bluish-purple hues provide a wonderful backdrop to the flower. This versatile plant is perfect for any garden or landscape, as it's perfect for containers, beds and borders. It is also drought-tolerant, making it an ideal choice for planting in warmer climates. For all its beauty and resilience, Chrysanthemum 'Fireworks Igloo' is undoubtedly an amazing plant.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Layering Propagation,Grafting Propagation,Cutting,Air Layering Propagation",
+            "Hardiness Zone": "4 - 9",
+            "Flowers": "Pink Flowers",
+            "Sun": "Full Sun",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,White",
+            "Growth Rate": "High",
+            "Maintenance": "Low",
+            "Salt Tolerant": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Chrysanthemum 'Fireworks Igloo' plants require moderate amounts of water. Water this plant thoroughly whenever the soil feels dry to the touch (1 - 2 inches deep). During the growing season (spring and summer) water it every 1 - 2 weeks. During autumn, water it every 2 - 3 weeks. During winter, water it only when the soil feels completely dry to the touch. Monitor the moisture in the soil with your finger or a soil moisture meter to ensure that you don’t overwater this plant.",
+            "Sunlight": "Chrysanthemum 'Fireworks Igloo' needs full sun for at least 6 hours a day to thrive. This can be a combination of morning and afternoon sun, or direct sun for 6 hours of the day. While this species can tolerate some shade during the day, it will not produce as many flowers or show the same vibrant colors as plants receiving a full 6 hours of direct sunlight.",
+            "Pruning": "Pruning for Chrysanthemum 'Fireworks Igloo' should be done in early to mid-spring before new shoots appear. When pruning, remove all dead and spindly branches, as well as any branches that are crossing over each other, as these can lead to disease. It is also important to prune back the main shoot flush to the bud just above the leaf node. This will encourage bushier growth and will limit how tall the plant can become. Pruning should be done lightly for this particular species. If you prune too deeply, it can cause stress on the plant."
+        },
+        "mapping_name": "Chrysanthemum"
+    },
+    "Ctenanthe": {
+        "mapping_name": "Ctenanthe",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Narcissus 'Ambergate'": {
+        "description": "Large-cupped daffodil (Narcissus 'Ambergate') is a stunning addition to any garden! It reaches 1.5-2ft in maturity and features bright yellow blossoms with a large cup-shaped center that adds a striking contrast to its delicate petals. The blooms last from February to March and its sweet scent is sure to attract butterflies and hummingbirds to your garden. This variety of daffodil is hardy and easy to care for, needing minimal watering and partial sun. The foliage is abundant and can be used to add lush texture to mixed borders. Add this yellow beauty to your garden anytime for a dose of springtime cheer!",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Seed Propagation,Offsets,Grafting Propagation",
+            "Hardiness Zone": "3 - 8",
+            "Flowers": "Copper-Orange Petals With Orange-Red Corona Flowers In Spring",
+            "Sun": "Full Sun,Part Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "High",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "The large-cupped daffodil (Narcissus 'Ambergate') should be watered sparingly, usually only once every 2 weeks. When you do water, make sure the soil is completely saturated. Check the soil before watering and if it is slightly dry, water as soon as possible. Water at the base of the plant, avoiding the foliage, allowing the water to reach the roots. In the hot summer months, the plant may need to be watered more often, up to twice a week. In the cooler months, only water when the soil appears dry.",
+            "Sunlight": "This species of daffodil requires full to partial sun to thrive. While it can tolerate some afternoon shade, it will produce its most vibrant blooms when it has access to at least 5-6 hours of direct light each day. If planted in full sun, morning sun is best to avoid burning the blooms. The large-cupped daffodil should receive sunlight from early morning to late afternoon for optimal growth and flowering.",
+            "Pruning": "Large-cupped daffodil (Narcissus 'Ambergate') should be pruned after flowering in late spring or early summer. Pruning should be fairly minimal as most daffodils require minimal pruning and won't be harmed too much by doing so. It is beneficial to trim back dead or damaged foliage, leaving around 2/3 of the foliage in place. It's also helpful to remove any spent flowers, which can help plants focus energy into producing strong and vibrant flowers for next season. Additionally, it is a good idea to give the plant an overall light trim, especially in cases where the plant is becoming too crowded. Lastly, it is important to make sure that the remaining foliage is not blocking any nearby plants from getting sufficient sunlight and air circulation."
+        },
+        "mapping_name": "Daffodils_Narcissus_spp"
+    },
+
+    "Dracaena marginata": {
+        "mapping_name": "Dracaena",
+        "description": "The dragontree (Dracaena marginata) is an amazing species of plant that adds a vibrant and striking look to any space. It has long, thin leaves that are deep green with a thin red stripe along the edges. Dragon trees can be surprisingly resilient, surviving low light and inconsistent watering. They even make great air-purifying plants! With proper care, these plants can live for decades and even grow up to 8 feet tall. Dragon trees make a stunning addition to any home, office, or living space, without requiring much effort.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation,Greenwood Cuttings",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "White Flowers",
+            "Sun": "part shade,full sun,part sun/part shade",
+            "Soil": "Acidic, Well-drained",
+            "Fruits": "green,red,yellow,purple,orange Fruits In Autumn Ready In Summer",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Red,Purple",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Salt Tolerant": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Moderate"
+        },
+        "care_info": {
+            "Watering": "Dragontree should be watered regularly, but infrequently, using lukewarm water. Generally, it is recommended to water your dragontree once a week, allowing the soil to dry out partially between waterings. If you notice the soil is dry at least 1 inch below the surface, its probably time to water the plant. When you water, make sure you water thoroughly until it starts to trickle out the drainage holes at the bottom of the pot.",
+            "Sunlight": "Dragontree plants need at least 4 - 6 hours of direct sunlight per day, preferably in the morning or early afternoon, when the sunlight is less intense and not as strong as in the middle of the day. If the plant is placed in too much sunlight, its foliage may become scorched and turn yellow. A gradual exposure to direct sunlight is best, as sudden exposure can be too intense for the leaves. Too little light may cause yellowing, drooping leaves, or slow growth. Dragontrees will do best when placed near a window facing south, east, or west, with a sheer curtain or other filter to limit the amount of direct sunlight.",
+            "Pruning": "Pruning of a Dragon Tree is best done in the late winter or early spring (February or March). Pruning should be done lightly to ensure that the plant doesnt look too sparse and lopsided. Remove only dead or damaged leaves and shoots from the main stem, not more than 1/4 of the total stem length. If the bush becomes thin and has too many gaps, then you can remove more around the area of the plant to make it look fuller. You may also lightly prune branches farther away from the main stem to give it a fuller, more even shape."
+        }
+    },
+
+    "Dumb Cane": {
+        "description": "The Dumb Cane (Dieffenbachia seguine) is an amazing and beautiful plant to add to any home or office space. It has large, unique white-yellow and green leaves that stay vibrant throughout the seasons, adding a wonderful splash of colour to any room. Its known for being a very hardy plant that is known to be almost impossible to kill. It loves bright, indirect sunlight and only needs water about every other week. The Dumb Cane is a perfect starter plant for someone just getting into house plants as they are very low-maintenance. Plus, they are known to filter toxins from the air, making them an excellent addition to any place of living.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation,Greenwood Cuttings,Layering Propagation",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "White Flowers In Spring",
+            "Sun": "Filtered Shade,Part Sun/Part Shade",
+            "Soil": "Humus Rich, Well-Drained",
+            "Fruits": "Green,Yellow,Orange Fruits Ready In Summer",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Yellow",
+            "Growth Rate": "Moderate",
+            "Maintenance": "Moderate",
+            "Poisonous To Humans": "Yes",
+            "Poisonous To Pets": "Yes",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Water Dumb Cane plants lightly, about once per week, providing enough moisture to keep the soil lightly moist. Reduce watering to once every 2 weeks if the leaves start to discolor or feel limp. Avoid overwatering as this can lead to root rot. Water Dumb Cane when the soil becomes dry to the touch. Feel the soil 1 to 2 inches below the surface before deciding whether or not the plant needs water.",
+            "Sunlight": "Dumb cane (Dieffenbachia seguine) prefers bright, indirect sunlight. The best way to achieve this is for the plant to receive 4–6 hours of sunlight each day. It is important to avoid direct sunlight, as the plant may become scorched. For best results, you should move the Dieffenbachia seguine to an area with indirect sunlight in the morning and another area with indirect sunlight in the afternoon.",
+            "Pruning": "Dumb cane (Dieffenbachia seguine) should be pruned in late spring or early summer. Generally, pruning should be kept to a minimum. As long as the plant is healthy, you only need to remove dead or damaged foliage. If you want to control the size of your plant, you can prune stems or shoots back by around a third of their length. Always sterilize your pruning tools before use to prevent any bacterial infection of your plant."
+        },
+        "mapping_name": "Dumb_Cane_Dieffenbachia_spp"
+    },
+    "Alocasia": {
+        "description": "The elephant's ear (Alocasia amazonica) is an amazing plant species. Its striking foliage features parabolic shaped leaves with bright green and silver/blue-green veins on the surface. Its white veins make the plant appear more vibrant, especially when provided with enough sunlight. Its size can range from one to two feet, making it an immediate attention-grabbing and decorative addition to any garden. It can also be grown indoors and is known for its air purifying capabilities. With its stunning, intricate foliage and its ability to add a splash of life and vivid color wherever you choose, the elephant's ear is an amazing species to add to your garden.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Air Layering Propagation,Stem Propagation,Offsets,Seed Propagation",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "Greenish White Flowers",
+            "Sun": "Part Shade,Part Sun/Part Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Black",
+            "Growth Rate": "High",
+            "Maintenance": "Moderate",
+            "Poisonous To Humans": "Yes",
+            "Poisonous To Pets": "Yes",
+            "Drought Tolerant": "Yes",
+            "Invasive": "Yes",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Elephant's ear (Alocasia amazonica) should be watered regularly and evenly, but not too often. In general, water the plant when the top of the soil has dried out, usually every 4-5 days during the growing season. During the winter, the soil may need to be watered even less frequently. When watering, make sure to soak the soil fully and then allow it to dry out slightly before watering again. It’s important to make sure the soil isn’t consistently waterlogged, as this can cause root rot. It’s best to use room temperature water instead of cold water.",
+            "Sunlight": "Elephant's Ear (Alocasia amazonica) prefers bright, indirect sunlight. It thrives when placed near a sunny window or be placed under artificial light for approximately 12 hours a day. Too much direct sunlight can burn the leaves, so it should be placed in an area where the light is filtered by a sheer curtain or other type of filter. During the winter months when sunlight is much weaker, the plant may require additional lighting to maintain its health.",
+            "Pruning": "Elephant's ear (Alocasia amazonica) should only be pruned when absolutely necessary. Pruning should be done during the spring or early summer months and only when the plant needs to be maintained or reshaped. It is advisable to remove only dead or damaged leaves and flowers as well as any unsightly stems and foliage. Avoid cutting too much off at once, as this can stress out the plant and may cause it to decline. When necessary, cut back only 10-15% of the plant growth in order to maintain its shape and health."
+        },
+        "mapping_name": "Elephant_Ear_Alocasia_spp"
+    },
+    "Hedera Helix": {
+        "mapping_name": "English_Ivy_Hedera_helix",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Hyacinth": {
+        "description": "Wild Hyacinth, or Camassia scilloides, is an amazing plant species that blossoms early in the spring and provides a stunning display of purple, white, and blue starburst flowers. Its narrow, grass-like leaves also add texture and color to the surrounding area. This native species is comparatively drought-tolerant compared to other garden flowers, and will continue to grow and bloom for years without needed to be replanted. Wild Hyacinth is also a great pollinator attractor that will wow any outdoor space with its effortless beauty and rarity.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Seed Propagation,Cormlet Propagation,Offsets",
+            "Hardiness Zone": "4 - 8",
+            "Flowers": "Pale Blue To White Flowers Flowers",
+            "Sun": "Partial Shade, Shade",
+            "Soil": "Clay, Sand, Humus Enriched",
+            "Fruits": "Blue,Purple Fruits Ready In",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Salt Tolerant": "Yes"
+        },
+        "care_info": {
+            "Watering": "Wild hyacinth requires moist soil during the warm summer months, and it should be watered deeply. It is essential that the soil doesn't dry out too much, so ensure regular watering. A general rule of thumb is to water thoroughly on a weekly basis, but check the soil moisture to determine how often you should water. This will depend on the weather conditions and how much the soil has dried out. During hot and dry weather, wild hyacinth may need to be watered twice a week.",
+            "Sunlight": "Wild hyacinth is best grown in an area with full sun, ideally 8-10 hours of sunlight a day. It can tolerate some partial shade, but full sun will help produce the best blooms. It prefers moist, well-drained soil, and will bloom from late spring to mid-summer. With its preference for full sun and well-drained soil, wild hyacinth is an ideal choice for gardens with hot and dry climates.",
+            "Pruning": "Wild hyacinth can be pruned in late winter or early spring before it begins to bloom. Pruning should be minimal, as wild hyacinth does not require extensive pruning. By removing any dead or discolored leaves, and gently removing faded flowers, it helps to maintain a fresh, tidy look in the garden. It is also important to prune off any fruited stems, by cutting them back to a junction with a healthy stem. Doing so prevents the plant from expending too much energy, ensuring the best bloom the following season."
+        },
+        "mapping_name": "Hyacinth_Hyacinthus_orientalis"
+    },
+    "Iron_Cross_begonia": {
+        "description": "Iron Cross Begonia (Begonia masoniana) is a unique and beautiful plant with large, showy foliage. Its green leaves are marked with a deep purple, cross-shaped pattern with white veins radiating outward, giving the leaves their signature \"iron cross\" look. It's a great choice for brightening up semi-shaded areas or a low light living space. The foliage develops an interesting tuberous shape over time. It produces clusters of white to pink bell shaped flowers that appear in late summer and fall. It's truly a spectacular plant that's sure to be a conversation starter in any garden!",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Cutting",
+            "Hardiness Zone": "11 - 12",
+            "Flowers": "Greenish-White Flowers",
+            "Sun": "Part Sun/Part Shade,Filtered Shade",
+            "Soil": "Acidic, Alkaline, Well-Drained",
+            "Fruits": "Fruits Ready In",
+            "Leaf": "Yes",
+            "Leaf Color": "Silver,Green,Gray,Gray",
+            "Growth Rate": "Low",
+            "Maintenance": "Moderate",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Iron Cross Begonia should be watered thoroughly, but then allowed to dry out in between waterings. As a tropical plant, it should be watered frequently while actively growing, once or twice a week. During the colder months, the plant should be watered less. Make sure that the soil is allowed to dry out between waterings. During the growing season, water when the top inch of soil is dry. During the dormant season, only water the plant when the top 2 inches of soil are dry.",
+            "Sunlight": "Iron Cross Begonia needs bright, indirect sunlight for 4-6 hours each day. It does best when placed in an east- or west-facing window and exposed to morning or evening light rather than the hot, midday sun. Direct sunlight can scorch the leaves of this plant and cause them to yellow. Be sure to rotate the pot occasionally to keep the foliage even and the plant growing.",
+            "Pruning": "Iron Cross begonias should be pruned once or twice a year, in the spring and early summer. Prune away any dead or damaged stems, as well as any stems that are growing out of control. Cut away no more than 1-third of the plant's total foliage to maintain the health of the begonia. Begin pruning from the base of the plant, and work your way up to the top. Make sure to use sharp and sterilized pruning tools to avoid infection and damage to the begonia."
+        },
+        "mapping_name": "Iron_Cross_begonia_Begonia_masoniana"
+    },
+    "Crassula_ovata": {
+        "mapping_name": "Jade_plant_Crassula_ovata",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Kalanchoe": {
+        "description": "The velvet leaf kalanchoe (Kalanchoe beharensis) is a succulent sun-loving plant. It grows to about two feet tall with silver-gray to rusty-red foliage covered in soft, velvety hairs. Its large, waxy, flowers range in color from red, to yellow, to orange, to green. They bloom in fall and winter. This species is native to Madagascar and is easily grown indoors or outdoors in warm climates. It needs full sun with well draining soil and regular watering. It is an excellent choice for adding texture and color to flowerbeds, borders, and rock gardens, and can also be grown in planters.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Stem Propagation,Leaf Cutting,Division,Air Layering Propagation,Grafting Propagation",
+            "Hardiness Zone": "11 - 12",
+            "Flowers": "Greenish-Yellow Flowers",
+            "Sun": "Full Sun,Part Shade,Part Sun/Part Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Red,Brown,Gray,Gray",
+            "Growth Rate": "Low",
+            "Maintenance": "Moderate",
+            "Poisonous To Pets": "Yes",
+            "Drought Tolerant": "Yes",
+            "Thorny": "Yes",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Velvet leaf kalanchoe should be watered thoroughly but infrequently, allowing the top 2-3 inches of soil to dry out in between waterings. Water the plant once every 7-10 days during the summer, and once every 10-14 days during the winter.",
+            "Sunlight": "Velvet leaf kalanchoe (Kalanchoe beharensis) prefers bright, indirect sunlight. It requires at least 4 hours of bright indirect sunlight each day in order to stay vibrant and healthy, but can tolerate up to 6 hours of direct sunlight each day. It should be kept away from any direct sunlight for the remainder of the day.",
+            "Pruning": "Velvet leaf kalanchoe (Kalanchoe beharensis) should be pruned every 6 to 8 months during the spring or early summer months. Pruning should be done to keep the plant looking full and well shaped. To do this, trim back the entire plant to about 1-third of its length. Take care not to remove more than 1-third of the foliage at any 1 time, as this can cause stress to the plant."
+        },
+        "mapping_name": "Kalanchoe"
+    },
+    "Hemerocallis": {
+        "mapping_name": "Lilium_Hemerocallis",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Convallaria": {
+        "description": "The Lily of the Valley, or Convallaria majalis, is an amazing plant species. It has one of the sweetest scents among all flowers, with small, bell shaped white blossoms that add a beautiful look to any garden. In addition to its springtime blooms, it is an incredibly resilient ground cover that can survive even under the harshest of conditions. Its long-lasting leaves and roots make it an ideal choice for landscaping. Not only is it a great flowering and evergreen plant, but it has a long history of medicinal use, from treating heart conditions to easing headaches. It is an amazing perennial that will keep blooming for years.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division",
+            "Hardiness Zone": "3 - 8",
+            "Flowers": "White Flowers In Spring",
+            "Sun": "Part Shade,Full Shade",
+            "Soil": "Humus Rich, Well-Drained",
+            "Fruits": "Yellow,Pink,White Fruits In Summer Ready In Summer",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "Moderate",
+            "Maintenance": "Low",
+            "Poisonous To Humans": "Yes",
+            "Poisonous To Pets": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Lily of the Valley should be watered once a week, using about 1/2-1 gallon of water, depending on the size of the pot. It is important to keep the soil evenly moist, but not waterlogged. Water more frequently during hot, dry spells. Check that the soil is completely dry in between waterings to avoid over-watering the plant. If the soil is too dry, the leaves may yellow and droop. Avoid overhead watering as it may cause fungal diseases.",
+            "Sunlight": "Lily of the valley (Convallaria majalis) should be grown in partial shade to full shade, in order to retain its delicate white blooms. It prefers moist, well-drained soil, and prefers a neutral soil pH of 6.7. It should be grown in a location where it will get at least 2 to 3 hours of direct sunlight each day. During hot summer months, it should be given more shade, in order to protect it from the intense heat. As for winter, it should get some morning sun but not too much, as it is not cold-hardy.",
+            "Pruning": "Lily of the valley is a low-maintenance plant that requires very little pruning. Generally, it is recommended that lily of the valley be pruned just once during the spring, after the blooming period. During this time, trim off any dead or diseased stems. It is important to disinfect your tools between plants to avoid the spread of disease. If the plant appears overgrown, you can also remove spent flowers and stems to help shape the plant. The stems can be cut back to just above the ground and the foliage will grow back nicely. Avoid pruning too much and leave at least 1 to 2 leaves on each stem."
+        },
+        "mapping_name": "Lily_of_the_valley_Convallaria_majalis"
+    },
+    "Pachira_aquatica": {
+        "description": "Guiana chestnut (Pachira aquatica), is a tropical wetland tree native to Central and South America. It is an attractive tree with large, glossy leaves and clusters of showy pink and white flowers. Its most distinctive features are its large, woody fruits, which resemble chestnuts. The seeds inside the fruits have numerous culinary uses. They can be boiled, roasted, or ground into a flour. The tree is also used for its bark, which is believed to have medicinal properties. Guiana chestnut is a popular ornamental and medicinal plant, with its bold, lush foliage and brightly-coloured fruits.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "Yellowish-White With Red-Tipped Stamens Flowers",
+            "Sun": "Part Sun/Part Shade",
+            "Soil": "Humus Rich, Well-Drained",
+            "Fruits": "Green,Yellow,Brown Fruits Ready In Summer",
+            "Edible": "Yes",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Yellow",
+            "Growth Rate": "Moderate",
+            "Maintenance": "Moderate",
+            "Drought Tolerant": "Yes",
+            "Salt Tolerant": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "The Guiana chestnut plant (Pachira aquatica) should be watered enough to keep the soil moist but not soggy. Depending on the size of the pot, this could mean watering the plant once a week. Plant medium (soil) should be allowed to dry out lightly between waterings. A good general rule of thumb is to water once the soil has become dry for an inch or 2 below the surface. Also, take special care to monitor the plant between spring and fall when it is most likely to need additional water. During the summer months, the Guiana Chestnut plant may need additional water about once every 5-7 days.",
+            "Sunlight": "Guiana chestnut, or Pachira aquatica, is an evergreen tree native to Central and South America. It requires partial sun exposure to grow properly. It can thrive in full sun, but it may need shade during the hottest parts of the day, especially during summer. To ensure healthy growth, keep the plant in a location that receives at least 4 to 6 hours of sunlight daily, including the midmorning and midafternoon hours when sunlight is at its most intense. You can also move the plant indoors during the summer if the temperature rises too high.",
+            "Pruning": "Guiana chestnut (Pachira aquatica) should be pruned once every 4-6 weeks during the growing season (spring to late summer). Pruning should consist of deadheading spent flowers and selectively removing any unwanted or excess growth. It is also important to remove dead, damaged, or diseased branches and twigs to manage the size of the tree. Pruning should be done sparingly and with careful consideration as to not affect the symmetric shape of the tree and to allow enough foliage for the plant to properly photosynthesize."
+        },
+        "mapping_name": "Money_Tree_Pachira_aquatica"
+    },
+    "Monstera_Deliciosa": {
+        "mapping_name": "Monstera_Deliciosa_Monstera_deliciosa",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Moth Orchid": {
+        "description": "The Moth Orchid is a stunning species known for its eye-catching beauty and delightful scent. The flowers, which bloom seasonally, come in a variety of colors and are usually arranged in clusters of three or more. The leaves are dark green and glossy, and the stems hang gracefully from the pot. Its tough, durable roots allow for an easy and fast transplation into any container or soil type. The Moth Orchid is a low maintenance plant that does well in both high and low light and can even survive drought conditions. With its long blooming season and breathtaking colors, it's no wonder the Moth Orchid is one of the most popular houseplants in the world.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Stem Propagation,Air Layering Propagation,Tissue Culture",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "No Blue Or Red Flowers",
+            "Sun": "Part Sun/Part Shade",
+            "Leaf": "Yes",
+            "Growth Rate": "High",
+            "Maintenance": "Moderate",
+            "Drought Tolerant": "Yes",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Moth orchids (Phalaenopsis (group)) should be watered every 7 to 10 days, with the soil kept lightly moist. An easy method is to water thoroughly until the water drains out the bottom of the pot, and then allow the plant to dry out completely between waterings. In warmer temperatures and lower humidity, they may need to be watered more often. In cooler temperatures and higher humidity, they may need to be watered less often.\n\nIt is important to water with lukewarm water and avoid using water that is too cold, as this can cause root shock. Since moth orchids are tropical, they prefer a humidity range of around 50 to 70 percent and a temperature range of 65 to 80 degrees Fahrenheit. To ensure adequate humidity, you can mist your orchid a couple times a week or keep it in a bathroom with a window or other area with high humidity. Remember to avoid overwatering as this can cause root rot and other diseases.",
+            "Sunlight": "Moth orchids (Phalaenopsis (group)) require bright, indirect sunlight. The best place to put these plants is within 3-8 feet of a sunny window, though they should never be placed right in front of the window. Indoors, these plants should be exposed to 6-8 hours of bright, indirect light every day. Outdoors (in warmer climates), they should be placed in a shady spot that receives only dappled sunlight throughout the day. Too much direct sunlight can cause the leaves of the moth orchid to burn, so it is important to monitor the plant to make sure it is not receiving too much or too little light.",
+            "Pruning": "When to Prune: The best time to prune Phalaenopsis is when the blooms have finished and the plant is at least 2-thirds of the way through its growth cycle. During this period, the plant will benefit from removal of old, dead, and damaged leaves, as well as any dead or damaged flower stems.\n\nHow Much to Prune: Pruning should be done gently and with care, as these orchids are fragile and can be easily damaged. Generally, it is recommended to clip just above the remaining pseudobulbs and panicles, though it is best to leave some leaves and flower stems for the orchid to regain energy. In any case, it is important to cut away with as few snips as possible, as too much pruning can slow the growth of the plant."
+        },
+        "mapping_name": "Orchid"
+    },
+    "Parlor_Palm": {
+        "description": "The Parlor Palm (Chamaedorea elegans) is an amazing house plant with several incredible attributes. It is a very slow growing species, requiring minimal maintenance. It is also quite small, so it fits perfectly in spaces such as desks, tabletops or counters. This species thrives in medium to low light conditions and requires little water, making it an easy addition to even the most neglectful caretakers. Additionally, this tropical species has beautiful, deep green leaves and graceful fronds that add a lush, exotic texture to any home. Its air purifying quality and affordability make it a great choice for anyone looking to add a bit of nature and beauty to their home.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "Yellow Flowers",
+            "Sun": "Part Shade",
+            "Fruits": "Red,Orange Fruits Ready In Summer",
+            "Leaf": "Yes",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Moderate"
+        },
+        "care_info": {
+            "Watering": "Parlor palms should be watered twice a week, using about 1/2 cup of water per pot. Make sure to water until the excess drips from the pot's drainage hole. Avoid over-watering as this can lead to root rot. Allow the soil to dry out slightly between waterings. Check the soil every week with your finger tips or a wooden skewer. If the skewer sticks further than 2 cm into the soil and feels dry, it is time to water.",
+            "Sunlight": "Parlor palm requires bright, indirect sunlight for optimal growth and health. It thrives in windows that offer a few hours of direct sunlight during the morning or late afternoon but does not tolerate full-day exposure to direct sunlight. In general, parlor palm prefers 4 to 6 hours of bright, indirect sunlight each day, spread out throughout the morning and/or evening.",
+            "Pruning": "Parlor palm (Chamaedorea elegans) should be pruned sparingly, only when necessary and when the plant has become too large for its desired space. Pruning should be done once every few months, in the early spring prior to regrowth. Pruning may also be done to adjust the shape or size of the plant and to remove dead or yellow foliage. For best results, it is recommended to use sharp, clean shears and to cut back to a point just above a leaf node. This will reduce the risk of injuring the plant."
+        },
+        "mapping_name": "Parlor_Palm_Chamaedorea_elegans"
+    },
+    "Peace_lily": {
+        "mapping_name": "Peace_lily",
+        "description": "Peace lilies (Spathiphyllum (group)) are popular tropical flowering plants well known for their striking white blossoms. They are relatively easy to care for, making them a popular houseplant choice. Peace lilies feature oval-shaped foliage which grows to approximately one foot tall, with the blooms reaching up to double that size. Depending on the species, peace lilies may flower during spring or winter months. They thrive in medium to low levels of light, and require regular watering to keep the soil slightly moist. With proper care, peace lilies create an added touch of beauty and serenity in any living space.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Stem Propagation,Air Layering Propagation,Leaf Cutting",
+            "Hardiness Zone": "11 - 12",
+            "Flowers": "White Flowers",
+            "Sun": "part shade,full shade",
+            "Leaf": "Yes",
+            "Leaf Color" : "Green",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Poisonous To Pets": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Peace Lilies should be watered deeply and thoroughly, about once a week. Water until it begins to flow from the bottom of the pot, then stop. Allow the soil to dry out completely between watering, as too much water can cause root rot. This species is relatively tolerant of drier soil, so be sure to allow the top inch of soil to become dry before watering again.",
+            "Sunlight": "Peace lilies thrive best with bright, indirect sunlight. Generally, these plants should be placed in a room or area that receives some sunlight, preferably 2 to 4 hours during the morning or afternoon. Placing the plant too close to a window or in too much direct sunlight can cause burning of the leaves. If the plant is not receiving enough sunlight, its leaves may become limp and yellow.",
+            "Pruning": "Peace lilies (Spathiphyllum) generally do not require regular pruning, but if it becomes necessary to shape the plant or encourage new growth, it can be done throughout the year. Prune spathes that have already released their flowers to encourage new blooms. In addition, you can prune any old foliage that gets yellow or brown. Cut any of these leaves off near the base of the plant using scissors or small garden shears. Depending on your plants needs, you may want to consider doing light pruning once or twice per year, as this can help promote bushier, healthier plants. Be sure to use clean scissors and shears when pruning, and sterilize them between pruning sessions to avoid spreading any diseases."
+        }
+        }
+    ,
+
+    "Poinsettia": {
+        "mapping_name": "Poinsettia_Euphorbia_pulcherrima",
+        "description": "Poinsettias (Euphorbia pulcherrima) are the perfect houseplant for the holiday season. Stunning red flower bracts contrast against dark green foliage that rarely needs pruning and the red blooms can last up to six months with proper care. In addition to looking beautiful, poinsettias are also surprisingly tough and can survive almost any indoor environment, making them especially suitable for indoor growing. All in all, poinsettias are an amazing plant that bring a unique touch of beauty to the holiday season and all year round.",
+        "details":{
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation,Greenwood Cuttings",
+            "Hardiness Zone": "9 - 11",
+            "Flowers": "Yellow flowers with red bracts Flowers",
+            "Fruits": "Green,Yellow Fruits In Winter Ready In Summer",
+            "Sun": "Part Shade,Full Shade",
+            "Leaf": "Yes",
+            "Leaf Color" : "Green",
+            "Growth Rate": "Moderate",
+            "Maintenance": "High",
+            "Indoors": "Yes"
+        },
+        "care_info": {
+            "Watering": "For optimal results, water your poinsettia regularly to keep the soil lightly moist. Water when the top inch of soil feels dry to the touch, generally once every 5-7 days. Water until the soil feels wet to a depth of 3-4 inches. Allow the excess water to drain out, then discard any water left in the saucer. Do not allow the plant to sit in water or become overly saturated. Avoid sudden fluctuations in soil moisture, as this can cause yellow and wilting leaves.",
+            "Sunlight": "Poinsettias require a fairly bright light setting for healthy growing. Ideally, this plant should have indirect sunlight for half the day, from 6 to 8 hours of indirect sunlight. Direct sunlight may scorch and burn the leaves of this species, so it is best to keep it in a place where it will receive bright, indirect light for 4-6 hours during the day. During the winter months, it can receive some light from a windowsill or near a bright window; however, it is best to provide artificial light of 14-16 hours a day for optimal growth.",
+            "Pruning": "Poinsettia should be pruned annually in early spring, before they produce new growth, to help keep them full and shapely. Prune the stems back to about 6 inches in height, cutting just above where 2 leaves meet. This will encourage branching and help maintain a more bushy shape. The stems can also be pinched back lightly throughout the season to encourage fuller growth. Remove any yellowing or dead leaves as necessary, but do not over-prune. Poinsettia plants usually do not require heavy pruning and should not require pruning more than once a year."
+        }
+    },
+    "Polka_Dot": {
+        "description": "The 'Polka Dot Plant' is an annual foliage plant with a unique name. It has distinctive large, dark green leaves with bright pink or white spots. It also grows beautiful tall spikes of pink or white flowers. Its most common name refers to its foliage, the 'Polka Dot Plant' is also known by the scientific name Hypoestes phyllostachya. It is a great choice for adding colorful texture to garden beds, rock gardens, or even in a container. The Polka Dot Plant's bright dots and rosy tones are sure to give your garden that extra something special.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation",
+            "Hardiness Zone": "10 - 11",
+            "Flowers": "Lilac Flowers",
+            "Sun": "Part Shade,Part Sun/Part Shade",
+            "Soil": "Well-Drained",
+            "Fruits": "Brown Fruits In Spring Ready In Summer",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Red,Purple,Pink,White",
+            "Growth Rate": "High",
+            "Maintenance": "Moderate",
+            "Indoors": "Yes",
+            "Care Level": "Moderate"
+        },
+        "care_info": {
+            "Watering": "Polka dot plants prefer moist soil, however, avoid overwatering. Water the plant when the top 3 inches of soil is dry. Typically, this plant needs to be watered every 7-10 days. In the summer, when temperatures are warmer, the plant might need more frequent watering. During the winter months, ensure that you water the plant less often. Additionally, make sure the soil is well-drained to prevent root rot from overwatering.",
+            "Sunlight": "The Polka Dot Plant (Hypoestes phyllostachya) requires bright, filtered sunlight throughout the day. This means that the plant should be placed in a spot near a window where it can receive at least 4-5 hours of sunlight daily. Bright, indirect light is best, so a spot near a south-facing window is ideal in most cases. Avoid direct exposure to the midday sun, as this can scorch the leaves of the plant. Additionally, be sure to rotate your Polka Dot Plant occasionally, so it isn’t always leaning toward the same side of the window.",
+            "Pruning": "Pruning of Polka Dot Plants (Hypoestes phyllostachya) should be done sparingly and judiciously. Pruning should be done to remove dead or damaged leaves, as well as just to shape the plant. Pruning should be done once the plant has finished flowering, typically in the late spring or early summer months. Generally, no more than 1-third of the plant should be removed during pruning. Pruning should be done with pruning shears or scissors and not pulled off by hand, as this can damage the plant."
+        },
+        "mapping_name": "Polka_Dot_Plant_Hypoestes_phyllostachya"
+    },
+    "Beaucarnea": {
+        "description": "The ponytail palm (Beaucarnea recurvata) is one of the most interesting houseplants out there. Unique and eye-catching, it has a swollen base and a thin, cascading crown of green foliage, resembling a head of hair. It’s a slow growing and long lived species, making it a great gift to last through generations. Its drought tolerant nature also makes it an excellent choice for neglectful owners. This palm is also incredibly hardy, and can survive in temperatures as low as 10°F. With proper care, it can add a unique, tropical feel to any space.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Greenwood Cuttings",
+            "Hardiness Zone": "10 - 11",
+            "Flowers": "Creamy White Flowers",
+            "Sun": "Part Sun/Part Shade",
+            "Soil": "Rocky , Gravelly , Dry, Well-Drained",
+            "Fruits": "Yellow,Brown Fruits Ready In",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "The ponytail palm is a semi-succulent, tropical species that requires only moderate amounts of water. It should be watered deeply and infrequently. During the summer months, water the ponytail palm deeply once or twice a week, allowing the soil to dry out in between waterings. During the winter months, water the ponytail palm only once every 3 weeks. The soil should remain slightly moist, but not soggy. If the soil feels damp before the suggested watering, then it is advised to delay the watering until the soil is dry.",
+            "Sunlight": "Ponytail palms (Beaucarnea recurvata) are a drought-tolerant plant that enjoy bright, indirect sunlight. They should receive at least 6 hours of sun per day, preferably from a south- or east-facing window. If possible, avoid the hottest midday sun as this can burn the leaves. During the late afternoon hours, you can move the plant to a spot that receives brighter indirect light to help encourage fuller leaves.",
+            "Pruning": "When it comes to pruning a ponytail palm, it's best to do so during the late spring or summer months. The reason for this is that the ponytail palm, also known as Beaucarnea recurvata, is slow-growing and doesn’t require much pruning. The amount that needs to be pruned depends on the size and shape desired. Pruning should be limited to removing old fronds, or leaves, as these will not recover. Cutting anything else could damage or harm the plant. Usually, no more than 10-15% of the palm should be pruned at 1 time."
+        },
+        "mapping_name": "Ponytail_Palm_Beaucarnea_recurvata"
+    },
+    "Pothos": {
+        "description": "Golden Pothos, also known as Epipremnum aureum, is an amazing, easy-care houseplant that is both aesthetically pleasing and resilient. The attractive variegated leaves of the plant grow rapidly and are easy to care for, making it a popular choice for beginners. Its glossy leaves drape gracefully in looping trails making it perfect for hanging baskets, wall mount containers, and table displays. The plant is also known to reduce various volatile organic compounds (VOCs) in the air that can be toxic, and can also help reduce snoring in bedrooms. Its natural resilience and ease of care makes the Golden Pothos a great choice for any plant lover, from beginner to advanced!",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "Green Flowers",
+            "Sun": "Part Sun/Part Shade",
+            "Soil": "Well-Drained",
+            "Fruits": "Fruits Ready In Summer",
+            "Leaf": "Yes",
+            "Leaf Color": "Gold,Green,Yellow,White",
+            "Growth Rate": "High",
+            "Maintenance": "Low",
+            "Poisonous To Pets": "Yes",
+            "Invasive": "Yes",
+            "Tropical": "Yes",
+            "Indoors": "Yes"
+        },
+        "care_info": {
+            "Watering": "Golden Pothos plants should be watered when the top inch of soil feels dry to the touch. Depending on the temperature and light of the location where the pothos is placed, it should be watered anywhere from once every 5-7 days to once a week. A general rule of thumb is to give it a good, deep watering, allowing all the excess water to freely drain out the bottom of the pot. Allow the soil to dry out partially between waterings. Too much water can cause the roots of the plant to rot, while too little water can cause the foliage to turn brown.",
+            "Sunlight": "The golden pothos plant, also called Epipremnum aureum, is an evergreen vine that requires medium light, which means it needs to receive a few hours of direct sunlight each day. The golden pothos prefers its light to be indirect and bright. This can be achieved by providing the plant with early morning sunlight, which is the best source of light that maintains a healthy plant. When providing direct sun, the recommended amount of time should not exceed 4 to 5 hours of direct sunlight per day.\n\nToo much direct sunlight can scorch the delicate leaves, so it is important to find the right balance of light for the golden pothos.",
+            "Pruning": "Golden pothos (Epipremnum aureum) prefer little pruning and should only be pruned if parts of the plant are overly long or overgrown. The best time to prune golden pothos is in the spring. Pruning can be done in 2 ways. First, gently pinch off the end of the tips of the stems. This will help to promote bushiness and encourage the plant to branch out. Second, prune off any dead or damaged stems. Only remove a small amount of the stems at a time, since drastic pruning can shock the plant and slow down growth. Pruning should be kept to a minimum so that the plant can stay healthy and lush."
+        },
+        "mapping_name": "Pothos_Ivy_arum"
+    },
+    "Prayer_Plant": {
+        "description": "Prayer Plant (Maranta leuconeura var. erythroneura) is a tropical evergreen species native to Brazil. It is particularly known for its striking foliage, as its pointed, oval-shaped leaves display reddish-green stripes and veins. When placed in indirect sunlight, the leaves of the prayer plant will fold up like a prayer, hence its evocative name. The prayer plant is an easy and attractive houseplant, tolerating low light and making a great way to bring some unique color and texture to the home or office. With its manageable size and interesting leaf movements, the prayer plant is sure to be a conversation starter.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Stem Propagation,Leaf Cutting,Air Layering Propagation",
+            "Hardiness Zone": "11 - 12",
+            "Flowers": "White Flowers",
+            "Sun": "Part Sun/Part Shade",
+            "Leaf": "Yes",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Moderate"
+        },
+        "care_info": {
+            "Watering": "Prayer plants should be watered every 1-2 weeks. Water should be applied lightly, to a point where the soil is moist, but not soggy. It is important to allow the top layer of soil to dry out before watering, as excess moisture can eventually cause root rot. During the growing season, it is best to water your prayer plant when the top 1-2 inches of the soil are dry. When winter approaches, the frequency of watering can be tapered down gradually. The key is to give the prayer plant just enough water to prevent it from wilting and drying out completely.",
+            "Sunlight": "Prayer plants need bright indirect or filtered light and grow best in medium light. As a rule, they should receive 8–12 hours of bright indirect or filtered sunlight each day, but should be kept out of direct sunlight, which can cause leaf scorch and sunburn. During the winter months, provide a few hours of direct sunlight each day if possible. Too little light can cause a lower rate of growth, and the plant may display some yellowish leaves and lose its patterned leaves.",
+            "Pruning": "Prayer Plant (Maranta leuconeura var. erythroneura) should be pruned lightly and regularly, any time from early spring to late summer. Cut off yellowed or browned leaves, but be very careful not to cut too much. Keep an eye out for stems with several leaves, and lightly prune those back to allow for fuller, bushier growth. When you prune, you should use sharp, clean pruning shears, and don't forget to sanitize them with rubbing alcohol after you finish pruning. Pruning your prayer plant will also allow more light to reach the inner leaves, promoting healthier plants and more vibrant foliage."
+        },
+        "mapping_name": "Prayer_Plant_Maranta_leuconeura"
+    },
+    "Rattlesnake": {
+        "description": "Calathea lancifolia, commonly known as rattlesnake plant, is an amazing houseplant that has extra-ordinary foliage. The leaves are long, narrow and wavy, like snakeskin, and have alternating white and dark green stripes. When its leaves move, the leaves gently shake which earns it its name! Rattlesnake plants are unique and hardy plants that require medium light and moist but well-drained soil. They are also non-toxic and easy to care for which make them a great houseplant for any environment. The wavy foliage will add beauty and movement to any room, making rattlesnake plants a great choice for any gardener.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Stem Propagation,Leaf Cutting,Air Layering Propagation",
+            "Hardiness Zone": "11 - 12",
+            "Flowers": "Yellow Flowers",
+            "Sun": "Part Shade,Part Sun/Part Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Purple",
+            "Growth Rate": "Low",
+            "Maintenance": "Moderate",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Rattlesnake plant (Calathea lancifolia) prefers moist but not soggy soil. Water your plant every 1-2 weeks, allowing the top inch of soil to dry out before watering again. During the summer months, the rattlesnake plant should be watered more regularly to ensure the soil stays moist. In winter, water less often and allow the top of the soil to dry out before watering again.",
+            "Sunlight": "Rattlesnake plant (Calathea lancifolia) does best in bright, indirect sunlight. A good rule of thumb is to provide up to 4 hours of sunlight per day - ideally in the morning or late afternoon when sun intensity is lower. With more than 4 hours of direct sun per day, the leaves may suffer from too much direct sun and scorch. Keep the rattlesnake plant in a spot where the sun is shaded by something like a fence, tree, or other structure as the direct hot sun for more than 4 hours can cause damage.",
+            "Pruning": "Generally, this species of plant should not be pruned too often or heavily. Pruning should be done sparingly, and only to remove dead, damaged, or overcrowded parts. Pruning should be done before the plant has a chance to flower. If done during the growing season, pruning should be done in the spring or early summer as buds begin to form. In the autumn, anytime before the end of October is a good time to prune for shape or size."
+        },
+        "mapping_name": "Rattlesnake_Plant_Calathea_lancifolia"
+    },
+    "Rubber_Plant": {
+        "description": "The Indian Rubberplant, or Ficus elastica, is an amazing species for houseplant lovers looking for a dramatic statement piece. It has glossy, broad leaves with a deep green hue, and its dramatic size and shape make it an eye-catching addition to any room. Its air-purifying properties also make it a great addition to a plant-filled home. Its tolerance for lower light and easier maintenance make it an ideal choice for those new to houseplants. With proper care, its large leaves can reach a width of up to 12 inches, adding a truly statement piece to any room.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Layering Propagation,Stem Propagation",
+            "Hardiness Zone": "10 - 12",
+            "Flowers": "No Flowers, Red, Green Flowers",
+            "Sun": "Full Sun,Part Sun/Part Shade",
+            "Soil": "Humus Rich, Well-Drained",
+            "Fruits": "Green Fruits Ready In Summer",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Yellow,Burgundy",
+            "Growth Rate": "Moderate",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Indian rubberplant (Ficus elastica) should be watered thoroughly until the excess water has drained out of the bottom of the container. Allow the top inch or 2 of soil to dry out before watering again. This plant does not like to sit in water, so it is important to avoid over-watering. During the active growing season, water every 7 to 10 days; during the dormancy period, water every 2 to 4 weeks.",
+            "Sunlight": "Indian rubberplants, also known as Ficus elastica, thrive best in bright light, such as near a window that receives several hours of direct sunlight a day. To provide your plant with optimal levels of sunlight, try to keep its leaves in the sun for 12 to 16 hours a day. If you live in an area with plenty of bright, direct sunlight, you may want to place the plant outdoors for a few hours each day during the warmer months. During winter when sunlight levels are lower, you may consider investing in a supplemental light source such as a high-Wattage LED grow light to provide the necessary light for your plant species.",
+            "Pruning": "Pruning an Indian rubberplant should be done about once a year, in late winter or early spring. The plant should be pruned to keep it in shape and size. Pruning can also be done to enhance the growth of new leaves or to remove lower branches that have grown too long. When pruning, remove no more than 1/3 of the total foliage. Be aware of where the cuts are made to avoid harming vital parts of the plant. Make sure to use sharp, clean scissors or garden shears."
+        },
+        "mapping_name": "Rubber_Plant_Ficus_elastica"
+    },
+    "Sago Palm": {
+        "description": "The Sago palm (Cycas revoluta) is an amazing plant species that is known for its unique fan-shaped leaves and intricate patterns. It requires minimal maintenance and is extremely resilient to harsh weather conditions, enabling it to thrive in both hot and cold climates. This palm is known for thriving in indirect sunlight and requires minimal watering, making it an ideal choice for those who are looking for a low-maintenance plant for their garden or patio. It also looks fantastic when it is well looked after, with its bright green foliage and thick stems. The Sago palm is cleverly designed, being able to absorb large amounts of moisture from its environment even in the toughest of conditions. Overall, the Sago palm is truly an amazing plant species.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Seed Propagation",
+            "Hardiness Zone": "9 - 10",
+            "Flowers": "Non-Flowering Flowers",
+            "Sun": "Full Sun,Part Shade",
+            "Soil": "Well-Drained",
+            "Fruits": "Red,Orange Fruits In Summer Ready In Summer",
+            "Edible": "Yes",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Poisonous To Humans": "Yes",
+            "Poisonous To Pets": "Yes",
+            "Drought Tolerant": "Yes",
+            "Salt Tolerant": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Sago palms should be watered moderately and evenly. Water once per week in spring and summer, providing enough water to moisten the soil around the roots, but avoiding overly wet conditions. In fall and winter months the plants require less water, and should be watered sparingly, as over-watering can damage or kill the plant.",
+            "Sunlight": "The Sago palm requires full sun or partial shade to thrive. For optimal growth, it needs at least 6 hours of direct sunlight each day, with partial shade in the hottest, sunniest part of the day being beneficial. It needs to be exposed to direct sunlight for the majority of the day in order to increase its chances for optimal growth. In areas of extreme heat, it may fare better if some shade is provided from 11am to 4pm.",
+            "Pruning": "Pruning is an important part of caring for a Sago palm, and should be done regularly. Pruning should be done in early spring, typically around the beginning of March. Generally, Sago palms should be pruned back to about 2/3 of the plant's total height. This will help promote new growth and vastly improve the appearance of the plant. Additionally, any dead or damaged leaves should be trimmed away, as well as any flower stalks. Pruning Sago palms back to 2/3 of their initial height encourages the growth of new, lush foliage and helps to keep the plant looking tidy and attractive."
+        },
+        "mapping_name": "Sago_Palm_Cycas_revoluta"
+    },
+    "Umbrella Plant": {
+        "description": "The umbrella plant (Cyperus alternifolius 'Variegatus') is a truly amazing species. Not only is it incredibly beautiful, with its tufts of bright green leaves with thin white ribs, but its unusual umbrella-like shape gives it a truly unique look. It is easy to care for, as it requires only medium light and some occasional watering- making it perfect for any home. This plant is also said to help purify the air, making it a great addition to any room. It may be small, but the umbrella plant will certainly make a big impact in any garden!",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Stem Propagation,Seed Propagation,Planting Runners",
+            "Hardiness Zone": "9 - 10",
+            "Flowers": "Greenish-Brown Flowers",
+            "Sun": "Part Shade,Part Sun/Part Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Yellow",
+            "Growth Rate": "Low",
+            "Maintenance": "Moderate",
+            "Drought Tolerant": "Yes",
+            "Salt Tolerant": "Yes",
+            "Indoors": "Yes"
+        },
+        "care_info": {
+            "Watering": "Umbrella plants should be watered once a week, using enough water to moisten the potting mix but not to soggy. It is best to allow the top half of the soil to dry out between watering. The soil in which umbrella plant grows should not be allowed to dry out completely. During the warmer weather, you'll need to water your plant more often. If you see the yellowing of the lower leaves, that's a sign of too much water - best to water less often.",
+            "Sunlight": "The umbrella plant (Cyperus alternifolius 'Variegatus') needs at least 4 - 6 hours of direct sunlight each day. This should ideally be in the morning hours, as this is when the sun's intensity is lower and will not cause the plant additional stress during this time. When summer approaches, the plant should receive more sunlight, however, make sure to avoid full exposure during the afternoons, when the intensity of the sun is more likely to cause sunburns or cause the leaves to turn yellow.",
+            "Pruning": "Pruning of Cyperus alternifolius 'Variegatus' (Umbrella Plant) should be done during spring months or early summer. Keep in mind the umbrella plant is fast-growing and can become large if not pruned. Generally, the amount of pruning needed is dependent of how large you want the plant to grow and if there is any dead or damaged foliage to remove. It is typical to remove 1/3 of the shoots and thin the plant's foliage. You may even remove some of the roots if you want to keep a more compact shape."
+        },
+        "mapping_name": "Schefflera"
+    },
+    "Sanseviera pattens": {
+        "mapping_name": "Snake_plant_Sanseviera",
+        "description": null,
+        "details": null,
+        "care_info": null
+    },
+    "Inch Plant": {
+        "description": "Inch Plant (Tradescantia zebrina) is an easy-to-care-for evergreen succulent with long, thin leaves. Its leaves are dark-green variegated with purple and silver stripes which can change color depending on the light conditions. To propagate, simply cut a stem from the mother plant and place it in water. You can even root the stem in soil or sand. With regular watering, it can grow to a maximum height of 1-2ft with a spread of 6-8 inches. Inch Plant is the perfect houseplant to brighten up your home or office with its attractive and vibrant foliage.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Stem Propagation,Stem Propagation",
+            "Hardiness Zone": "8 - 12",
+            "Flowers": "Lavender-Purple Flowers",
+            "Sun": "Full Sun,Part Sun/Part Shade",
+            "Fruits": "Green,Brown Fruits Ready In Summer",
+            "Leaf": "Yes",
+            "Growth Rate": "High",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Inch plant (Tradescantia zebrina) should be watered well but not over-watered. Water the plant thoroughly, allowing the water to thoroughly saturate the soil. During the growing season, keep the soil moist by watering the plant about once a week. During the winter months, decrease the frequency of watering but continue to water the plant about every 2 to 4 weeks. Make sure not to let the soil remain soggy, as this can lead to root rot.",
+            "Sunlight": "Inch plant (Tradescantia zebrina) thrives in indirect sunlight and needs several hours of bright, indirect light each day. A few hours of direct sunlight, such as in the morning or late afternoon, are also OK. It needs more light in winter and can handle less light in summer. If the plant does not get enough sunlight it may start to lose its markings, becoming dull in color. If it gets too much sunlight, the leaves will begin to scorch. It is best to keep it in a spot that gets both morning and afternoon sun.",
+            "Pruning": "Inch Plant (Tradescantia zebrina) should only be pruned in the summer months, once the plant has finished flowering. Pruning should be done lightly, so as not to damage the plant. Remove only dead or damaged leaves, cutting up to 1-third of the stem at a time. The plant can be cut shorter if desired, but it should not be done in excess as this can damage the plant and limit new growth. New growth should be encouraged in order to help the plant reach its full potential. Inch Plant is also tolerant to groomed-look. Prune it regularly to keep it concise and compact."
+        },
+        "mapping_name": "Tradescantia"
+    },
+    "kaufmanniana tulip": {
+        "description": "Tulipa 'Ancilla' (Kaufmanniana tulip) is a captivating spring-flowering tulip that produces purple blooms with yellow freckles in April and May. These slender plants are an excellent choice for borders and containers, and look great planted in groups of 10-15. They prefer sunny, well-drained soil, and are relatively drought tolerant once established. Grow Kaufmanniana tulips in USDA hardiness zones 3-8 for a show of bright color in the early spring that usually lasts for several weeks.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Offsets,Seed Propagation,Bulbils,Grafting Propagation",
+            "Hardiness Zone": "3 - 8",
+            "Flowers": "Pink Flushed With Red Flowers In Spring",
+            "Sun": "Full Sun",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "Tulipa 'Ancilla' (Kaufmanniana Tulip) is a stunning, easy to care for perennial with fragrant, classic tulip-shaped flowers. This variety should be watered liberally during the spring and summer and lightly in fall and winter. Water when the soil is dry to the touch and be sure to water at the soil-level to avoid wetting the stems of the plant. In addition to regular watering, try to ensure your Tulipa 'Ancilla' is not in a water-logged state which can lead to root rot. Every 10-14 days in warmer weather should be sufficient for your plant.",
+            "Sunlight": "The Kaufmanniana tulip (Tulipa 'Ancilla') needs full sun for optimum growth and flowering. The plant will grow nicely in part shade, but the flowers may lack the full vibrancy seen in plants grown in sunnier spots. The plant enjoys 6-8 hours of direct sun daily, or filtered sunlight for most of the day. A south-facing location is ideal as it will ensure the tulip receives maximum sun exposure year-round.",
+            "Pruning": "Tulipa 'Ancilla' (Kaufmanniana tulip) should be pruned when the foliage begins to yellow and die back, typically in late spring. Pruning should be done moderately, removing no more than 1 third of the leaves and stems at a time. This helps to promote new growth and encourage the plant to continue flowering in the spring. Deadheading spent flowers also helps with the plant's appearance and encourages more blooms."
+        },
+        "mapping_name": "Tulip"
+    },
+    "Venus Fly Trap": {
+        "mapping_name": "Venus_Flytrap",
+        "description": " The Venus fly trap is an amazing plant species with a unique mechanism for catching prey. This carnivorous plants leaves snap shut with startling speed when an unfortunate insect wanders inside. The inside of the Venus fly trap is lined with hairs that sense its prey's movement and trigger the fascinating trap. The Venus fly trap is also quite beautiful, with bright green foliage and a hint of red. This species has also developed an interesting adaptation - it can survive in nutrient-poor soil by capturing and digesting insects. This marvelous mechanism makes the Venus fly trap an incredible botanical wonder!",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Seed Propagation,Leaf Cutting,Root Cutting",
+            "Hardiness Zone": "5-8",
+            "Sun": "Full sun,part sun/part shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "High",
+            "Maintenance": "High",
+            "Drought Tolerant": "Yes",
+            "Salt Tolerant": "Yes",
+            "Thorny": "Yes",
+            "Indoors": "Yes",
+            "Flowers": "White Flowers"
+        },
+        "care_info": {
+            "Watering": "Venus fly traps should be watered lightly once every 5 to 10 days. When watering the plant, you should use flat, room-temperature water or rainwater, never tap water as it contains too many minerals. The soil should be damp, but not saturated. Never let the soil dry out and never let the plant sit in standing water. Typically, its best to give your Venus fly trap about 2 to 4 ounces of water at a time. This is the equivalent of about 1/4 to 1/2 cup.",
+            "Sunlight": "Venus fly traps require plenty of sunlight to thrive. They need to be exposed to at least 6 hours of full or partial sunlight each day in order to grow well and remain healthy. When the light intensity and temperature are too low, the traps of the Venus fly trap plant will not be fully opened and the leaves will become limp. An ideal amount of direct sunlight for a Venus fly trap is around 8-10 hours, depending on the intensity of the light. The best timing for a Venus fly trap to get sunlight is during the morning hours, when the temperature is still mild and there is not too much direct light.",
+            "Pruning": "Venus fly traps should be pruned twice a year; once in late winter/early spring and again in late summer/early fall. When pruning, remove dead, diseased, or otherwise unsightly leaves. Also, remove any overly vigorous growth that may be shading or crowding out other leaves. When pruning, use only clean, sharp scissors to avoid damaging the plant. For each pruning session, remove no more than 10-20% of the overall foliage."
+        }
+    },
+    "Spineless Yucca": {
+        "description": "Spineless yucca (Yucca elephantipes) is a tough, evergreen shrub found in tropical and subtropical regions of Central America. It is a low maintenance species that thrives in both full sun and partial shade, and can tolerate dry and drought conditions. The plant has long pointed leaves and can reach up to 10 feet in height. Its name comes from the lack of a sharp point at the end of its leaves. When mature, it produces showy white flowers in the summer. It is an ideal choice for landscapes or low-maintenance container gardens and prefers well-draining soil.",
+        "details": {
+            "Cycle": "Perennial",
+            "Watering": "Average",
+            "Propagation": "Division,Cutting,Seed Propagation,Air Layering Propagation",
+            "Hardiness Zone": "9 - 10",
+            "Flowers": "White Flowers",
+            "Sun": "Full Sun,Part Shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green,Gray,Gray",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Salt Tolerant": "Yes",
+            "Thorny": "Yes",
+            "Tropical": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Medium"
+        },
+        "care_info": {
+            "Watering": "For Spineless yucca plants, water once every 1-2 weeks, allowing the soil to dry out in between waterings. During the growing season (spring and summer), the plant should receive deep but infrequent watering while during the winter months, allow the soil to become almost dry between waterings.",
+            "Sunlight": "Spineless yucca (Yucca elephantipes) requires at least 4 to 6 hours of direct sunlight daily. As this species is native to desert areas, it prefers to be in full sun most of the day, while saplings will need more shade to reduce the risk of sunburn. It is also better to give it a few hours of bright indirect sunlight than too much direct sunlight. Additionally, it is best to place the plant in a south-facing window, if possible. If the species is kept indoors, try to place it close to an east- or west-facing window.",
+            "Pruning": "Pruning for Spineless Yucca plants should be done in the spring, from February to April. It is best to prune when the plant is actively growing, as this will encourage new growth and reduce stress on the Yucca plant. As for how much to prune, remove new sprouts that you do not want to develop into a branch and prune no more than 1-third of the branches at a time. This will help preserve the overall health and shape of the Yucca plant."
+        },
+        "mapping_name": "Yucca"
+    },
+    "ZZ Plant": {
+        "mapping_name": "ZZ_Plant_Zamioculcas_zamiifolia",
+        "description": "The ZZ plant (Zamioculcas zamiifolia) is an evergreen plant species native to eastern Africa. It has a unique shape, with unusual, waxy, leaflets that have distinctively rugged edges. The glossy green leaves are arranged symmetrically along each stem. It can grow over two feet tall in optimal conditions. The ZZ plant is easy to care for - it thrives in bright, indirect sunlight, only needs watering a few times a month, and is tolerant of both dry and humid climates. A member of the Araceae family, ZZ plant is a welcome addition to any home or garden.",
+        "details": {
+            "Cycle": "Herbaceous Perennial",
+            "Watering": "Average",
+            "Propagation": "Leaf Cutting",
+            "Hardiness Zone": "9 - 10",
+            "Flowers": "White spadix with green spathe Flowers",
+            "Sun": "part shade,part sun/part shade",
+            "Leaf": "Yes",
+            "Leaf Color": "Green",
+            "Growth Rate": "Low",
+            "Maintenance": "Low",
+            "Drought Tolerant": "Yes",
+            "Indoors": "Yes",
+            "Care Level": "Low"
+        },
+        "care_info": {
+            "Watering": "Watering the ZZ plant is essential for its health and longevity. It is best to give it an occasional deep watering when the top inch or 2 of soil feels dry to the touch. Be careful not to overwater, as this can cause the plant to suffer from root rot. During the growing season, which typically occurs from spring to fall, it should be watered once every 2 to 3 weeks. During the winter months, it can be watered less frequently, only when the soil is dry. It is important to let the soil dry out completely in-between waterings.",
+            "Sunlight": "The ZZ plant (Zamioculcas zamiifolia) requires bright, indirect sunlight for optimal growth. With this species in particular, direct sunlight should be avoided as it can cause leaves to burn or become discolored. The amount of light needed and the duration for optimal growth can differ depending on the situation and location. Generally, it is best to place a ZZ plant in a bright, sunny spot for 6 to 8 hours of good indirect sunlight each day, such as in a south- or east-facing window. In lower-light positions, the amount of light needed can be decreased to 4 to 6 hours each day, or less for less frequently watered plants.",
+            "Pruning": "Pruning ZZ plants is not typically necessary as these plants are slow-growing and produce few lateral leaves. However, if the leaves become too long or the plant is starting to spread out, trimming the leading tips of the stems can help the plant maintain its shape. To do this, use sharp, clean scissors and snip just above a set of leaves. Pruning should be done at any time during the growing season, preferably in the spring or summer. Be aware that frequent pruning can weaken the plant, so use only when needed."
+        }
+    }
+}

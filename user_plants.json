@@ -1,0 +1,24 @@
+{
+    "Juliya": [
+        {
+            "name": "Anthurium",
+            "image": "/image/Anthurium_Anthurium_andraeanum/Anthurium_1.jpg",
+            "nickname": "Bella Thorn"
+        },
+        {
+            "name": "Peace_lily",
+            "image": "/image/Peace_lily/Image_1.jpg",
+            "nickname": "Lil Plant"
+        },
+        {
+            "name": "Dracaena marginata",
+            "image": "/image/Dracaena/Dracaena_10.jpg",
+            "nickname": "Oompa Loompa"
+        },
+        {
+            "name": "Venus Fly Trap",
+            "image": "/image/Venus_Flytrap/Image_1.jpg",
+            "nickname": "Fluffy"
+        }
+    ]
+}
